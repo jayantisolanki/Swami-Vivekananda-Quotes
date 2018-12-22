@@ -9,7 +9,7 @@ Plugin URI: http://www.jayantisolanki.com/projects/plugins/swami-vivekananda-quo
 Description: You will see a random quote from Swami Vivekananda displayed at the top of the admin screen.
 Author: Jayanti Solanki
 Version: 1.0
-Author URI: http://www.jayantisolanki.com
+Author URI: https://www.webyant.com
 */
 class SVQuotes {  
     public function __construct()  
